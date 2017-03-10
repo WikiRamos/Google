@@ -1,0 +1,104 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  font-family: arial;
+}
+header{
+  width: 100%;
+  height: 60px;
+}
+header nav {
+    width: 280px;
+    height: 100%;
+    display: inline-block;
+    float: right;
+    margin-top: 5px;
+}
+header nav a {
+    margin-right: 5px;
+    text-decoration: none;
+    font-size: small;
+    font-color: #66667d;
+
+}
+.logo{
+  width: 325px;
+  height: 193px;
+  margin-top: 100px;
+
+}
+.caja{
+  width: 550px;
+  line-height: 34px;
+  font: 16px arial;
+  height: 34px;
+  justify-content: center;
+
+}
+.botones{
+  height: 36px;
+  background-color: #f2f2f2;
+  border-bottom-color: #f2f2f2;
+  border: 1px solid #f2f2f2;
+  color: #757575;
+  font-family: arial;
+  font-size: 13px;
+  font-weight: bold;
+  padding-top: 3px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  margin: 11px 4px;
+  text-align: center;
+
+}
+.parrafito{
+  justify-content: center;
+  font-size: small;
+  margin-top: 5px;
+}
+.paqueton {
+  vertical-align: middle;
+  justify-content: center;
+  margin-top: 5px;
+
+}
+footer {
+  width: 100%;
+  height: 50px;
+  background-color: #eae9e9;
+  position: absolute;
+  bottom: 0;
+  }
+footer nav  {
+  width: 280px;
+  height: 50%;
+  display: inline;
+  background-color: #eae9e9;
+
+}
+footer nav a {
+  text-decoration: none;
+  margin-right: 5px;
+  margin-left: 5px;
+  font-size: small;
+  margin-top: 10px;
+  margin-left: 0px;
+  margin-right: 0px;
+  font-color: grey;
+  padding-left: 20px;
+}
+footer nav .menuabajo #grupo2 {
+  float: right;
+  margin: 12px;
+  font-color: #66667d
+
+}
+footer nav .menuabajo #grupo1 {
+  float: left;
+  margin: 12px;
+
+}
